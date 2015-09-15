@@ -1,4 +1,4 @@
 # hello-world
 Hello-world repository for git tutorial
 
-I like Javascript and Ruby. CSS and HTML are great too
+I like Javascript and Ruby. CSS and HTML are great too. What about .NET and SQL?
